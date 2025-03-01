@@ -1,0 +1,9 @@
+/*
+ * reussing existing functionally & adding new feature
+ * OR
+ * inheriting properties form parent class to child class
+ * java supported single inheritance, multilevel,hybrid and heirarchy
+ * doesn't support multiple inheritance 
+ * Java doesn't support multiple inheritance with classes to avoid ambiguity, complexity, and the diamond problem. 
+ *However, it does support multiple inheritance through interfaces.
+ */

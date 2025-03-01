@@ -10,7 +10,7 @@ public class Employee1 {
     return this.empName;
 }
 public static void main(String[] args) {
-     Employee e1=new Employee(101);// we are creating object value so construct will be used
+     Employee e1=new Employee(101);// we are creating object value so constructer will be used
      e1.setempName("rahul");
 }
 }
